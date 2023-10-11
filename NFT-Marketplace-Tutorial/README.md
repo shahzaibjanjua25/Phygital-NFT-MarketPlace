@@ -1,6 +1,6 @@
 # Basic NFT Marketplace end to end
 
-This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.ArtiFatto.com/ArtiFatto/) built by [ArtiFatto](https://ArtiFatto)
+This code is for the Tutorial Build your own NFT Marketplace from Scratch built by [ArtiFatto](https://ArtiFatto)
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
